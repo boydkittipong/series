@@ -1,0 +1,69 @@
+{
+"name": "สวีทโฮม (Sweet Home)",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "",
+"stations": [
+{
+"name": "สวีทโฮม Sweet Home EP01",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/02a2b7cbed02d2c61e419e886a47ea04_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP02",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/99ab8799ed997299fcc2ebb25c49ed72_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP03",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/cfd413113ca73e948e50b919b214e524_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP04",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/164e6bf2ed6f2c6facda4bc1f3cfb72f_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP05",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/4ba200ffb93f2fe7083c87dfe9d494f6_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP06",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/c68a027326f12938ba3c3cbafd199c75_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP07",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/2e90b4182946cb8974afe34b7f8e8e25_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP08",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/c472bdda926c3d556d8823efacb2cd84_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP09",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/32fde912f56c4d8f09d34e9107322fdf_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+{
+"name": "สวีทโฮม Sweet Home EP10",
+"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"url": "https://m2h-cdn.b-cdn.net/files/6934d3a71251d84d96cbd123a59c9965_720p.mp4.m3u8",
+"playInNatPlayer": "tot"
+},
+
+]
+}
