@@ -1,81 +1,23 @@
 {
-"name": "After Dark อาทิตย์อัสดง",
+"name": "Locke & Key Season 1",
 "author": "ฺฺBoyd_Kittipong",
-"image": "https://s359.kapook.com/pagebuilder/6a3bc76f-7f57-4823-b0b4-a83819a5ab0a.jpg",
+"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/series/main/after_dark",
 "stations": [
+
 {
-"name": "อาทิตย์อัสดง EP 01",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://ft5gre.cfeucdn.com/secip/73174/kFq__JvH7h0OMJU1os9Jsw/MS4wLjE3MS4w/1609361212/hls-vod-s04/flv/api/files/videos/2020/12/05/1607185535h4sa6",
+"name": "Locke & Key Season 1 EP 01",
+"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
+"url": "https://server36.oneplayer.online/hls/aD3dIYY/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "อาทิตย์อัสดง EP 02",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://dfh46j.cfeucdn.com/secip/73174/FKrb0a1s1-dUOvylJ3yM2g/MS4wLjE3MS4w/1609361520/hls-vod-s05/flv/api/files/videos/2020/12/05/1607185727k1ypz",
+"name": "Locke & Key Season 1 EP 02",
+"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
+"url": "https://server35.oneplayer.online/hls/1C0SlLq/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
-{
-"name": "อาทิตย์อัสดง EP 03",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://h4ahsm.cfeucdn.com/secip/73174/vVsXoUJMrm0tCgeb4H7o2Q/MS4wLjE3MS4w/1609361560/hls-vod-s04/flv/api/files/videos/2020/12/05/160718565800haw",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 04",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://hue5e3.cfeucdn.com/secip/73174/bnBXgA9Bhes0dzWQuTFSrw/MS4wLjE3MS4w/1609361613/hls-vod-s08/flv/api/files/videos/2020/12/05/1607185576ve3hc",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 05",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://jfr5sf.cfeucdn.com/secip/73174/QNb4DY6_VDZTyXjZWNbDgw/MS4wLjE3MS4w/1609361650/hls-vod-s10/flv/api/files/videos/2020/12/05/1607185570i5427",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 06",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://d5g2f6.cfeucdn.com/secip/73174/e0WA3pHhxVRySarXM2ZnFw/MS4wLjE3MS4w/1609361705/hls-vod-s05/flv/api/files/videos/2020/12/05/16071855554ckx6",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 07",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://nd4f35.cfeucdn.com/secip/73174/k2F0tNEZ6G7GXy-OiS1ScQ/MS4wLjE3MS4w/1609361745/hls-vod-s04/flv/api/files/videos/2020/12/05/16071856126etdk",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 08",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://jfr5sf.cfeucdn.com/secip/73174/X-YPJY21LtTgIWagPlRs4A/MS4wLjE3MS4w/1609361780/hls-vod-s04/flv/api/files/videos/2020/12/05/1607185646s8c59",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 09",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://yuk54f.cfeucdn.com/secip/73174/ohKwljGyxvoBmTzvLmv66w/MS4wLjE3MS4w/1609361817/hls-vod-s05/flv/api/files/videos/2020/12/05/16071859580wzto",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 10",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://yuk54f.cfeucdn.com/secip/73174/yyb0tsq4eq9lMxARK3zejQ/MS4wLjE3MS4w/1609361849/hls-vod-s04/flv/api/files/videos/2020/12/12/1607785865a87mt",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 11",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://43t45w.cfeucdn.com/secip/73174/XLPGRg9V3aLz339Vrn6WKQ/MS4wLjE3MS4w/1609361886/hls-vod-s05/flv/api/files/videos/2020/12/19/1608384164k2e76",
-"playInNatPlayer": "tot"
-},
-{
-"name": "อาทิตย์อัสดง EP 12",
-"image": "https://obs.line-scdn.net/0hzoTA2mZqJUBpOAykvw1aF1NuJi9aVDZDDQ50QzVWe3QTAWBDBllpLko8eXZMCWIeBwliJkk7PnEWWmMXVlpp/w644",
-"url": "https://ft5gre.cfeucdn.com/secip/73174/L0iEUDyUBPltt5-7mZQ7sg/MS4wLjE3MS4w/1609361920/hls-vod-s12/flv/api/files/videos/2020/12/26/1608988644ls37c",
-"playInNatPlayer": "tot"
-},
+
 
 
 ]
