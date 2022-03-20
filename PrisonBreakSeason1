@@ -1,0 +1,24 @@
+{
+"name": "Prison Break Season 1",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://www.series-108.com/wp-content/uploads/2021/05/Prison-Break-Season-1.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/main/after_dark",
+"stations": [
+
+{
+"name": "Prison Break Season 1 EP 01",
+"image": "https://www.series-108.com/wp-content/uploads/2021/05/Prison-Break-Season-1.jpg",
+"url": "https://www.series-108.com/video/prison-break-season-1-ep-1/",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Prison Break Season 1 EP 02",
+"image": "https://www.series-108.com/wp-content/uploads/2021/05/Prison-Break-Season-1.jpg",
+"url": "https://playhls.xyz/fy3zu94ghi26wzdzrn5wujqa0alh0g3gufw/720/index.m3u8",
+"playInNatPlayer": "tot"
+},
+
+
+
+]
+}
