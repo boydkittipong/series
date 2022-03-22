@@ -1,20 +1,20 @@
 {
 "name": "Locke & Key Season 1",
 "author": "ฺฺBoyd_Kittipong",
-"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
+"image": "https://www.img10.xyz/assets/movie_poster/e/e31c0991ea5fc378034712902a15ba98.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/series/main/after_dark",
 "stations": [
 
 {
-"name": "Locke & Key Season 1 EP 01",
-"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
-"url": "https://server36.oneplayer.online/hls/aD3dIYY/file_1080.mp4/index-v1-a1.m3u8",
+"name": "อาทิตย์อัสดง EP 01",
+"image": "https://www.img10.xyz/assets/movie_poster/e/e31c0991ea5fc378034712902a15ba98.jpg",
+"url": "https://server2.oneplayer.online/hls/U5fRORN/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
-"name": "Locke & Key Season 1 EP 02",
-"image": "https://www.img08.xyz/assets/movie_poster/d/d763d3464ef525aeb637b63c959f0880.jpg",
-"url": "https://server35.oneplayer.online/hls/1C0SlLq/file_1080.mp4/index-v1-a1.m3u8",
+"name": "อาทิตย์อัสดง EP 02",
+"image": "https://www.img10.xyz/assets/movie_poster/e/e31c0991ea5fc378034712902a15ba98.jpg",
+"url": "https://server2.oneplayer.online/hls/v4Oce4e/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 
