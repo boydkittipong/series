@@ -1,0 +1,59 @@
+{
+"name": "Peacemaker ซีซั่น 1",
+"author": "ฺฺBoyd_Kittipong",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://raw.githubusercontent.com/boydkittipong/series/main/after_dark",
+"stations": [
+
+{
+"name": "Peacemaker EP 01",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep1",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 02",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep2",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 03",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep3",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 04",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep4",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 05",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep5",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 06",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep6",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 07",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep7",
+"playInNatPlayer": "tot"
+},
+{
+"name": "Peacemaker EP 08",
+"image": "https://m.media-amazon.com/images/M/MV5BZGNkYWViODYtYjIwYy00MWI4LThhNTItODg4YTM2MjFhY2U2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+"url": "https://we-play.live/watching/series/peacemaker-dud-th-2022/season1/ep8",
+"playInNatPlayer": "tot"
+},
+
+
+]
+}
