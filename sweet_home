@@ -1,67 +1,43 @@
 {
 "name": "สวีทโฮม (Sweet Home)",
 "author": "ฺฺBoyd_Kittipong",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://raw.githubusercontent.com/boydkittipong/series/main/sweet_home",
 "stations": [
 {
 "name": "สวีทโฮม Sweet Home EP01",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/MI9X96C/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สวีทโฮม Sweet Home EP02",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/YJQRU4t/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สวีทโฮม Sweet Home EP03",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/gJHeVsH/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สวีทโฮม Sweet Home EP04",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/LpZ9fLO/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สวีทโฮม Sweet Home EP05",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/s3Riy2c/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 {
 "name": "สวีทโฮม Sweet Home EP06",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
+"image": "https://www.123-hd.com/wp-content/uploads/2024/10/Hellbound-Season-2-300x450.jpg",
 "url": "https://server1.onplayget.xyz/hls/4QEOdxJ/file_1080.mp4/index-v1-a1.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "สวีทโฮม Sweet Home EP07",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
-"url": "https://server1.onplayget.xyz/hls/cG3E4uM/file_1080.mp4/index-v1-a1.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "สวีทโฮม Sweet Home EP08",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
-"url": "https://server1.onplayget.xyz/hls/ZzhYN3u/file_1080.mp4/index-v1-a1.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "สวีทโฮม Sweet Home EP09",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
-"url": "https://server1.onplayget.xyz/hls/CVowBly/file_1080.mp4/index-v1-a1.m3u8",
-"playInNatPlayer": "tot"
-},
-{
-"name": "สวีทโฮม Sweet Home EP10",
-"image": "https://love-series.com/uploads/d2c3d8b98804cc614866cf4a005c17a9.jpg",
-"url": "https://server1.onplayget.xyz/hls/k6yAQzt/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "tot"
 },
 
